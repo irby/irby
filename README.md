@@ -2,7 +2,7 @@
 
 I am a full-stack software developer passionate about learning new tech stacks.
 
-🌱 I'm currently learning the MEAN stack and developing for [Google Firebase](https://firebase.google.com/).
+🌱 I'm currently learning Docker and ECS in AWS
 
 ---
 
