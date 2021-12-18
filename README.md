@@ -2,7 +2,7 @@
 
 I am a full-stack software developer passionate about learning new tech stacks.
 
-🌱 I'm currently learning Docker and ECS in AWS
+🌱 I'm currently learning Terraform
 
 ---
 
