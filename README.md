@@ -2,7 +2,7 @@
 
 I am a full-stack software developer passionate about learning new tech stacks.
 
-🌱 I'm currently learning Terraform
+🌱 I'm currently learning Terraform with Azure & Rust 🦀
 
 ---
 
