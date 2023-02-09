@@ -2,7 +2,7 @@
 
 I am a full-stack software developer passionate about learning new tech stacks. During the day, I develop cloud-facing web applications. By night, I do some work on open-source projects I find interesting.
 
-🌱 I'm currently working on learning Golang, Azure, and Node.
+🌱 I'm currently working on learning Golang, Azure, React and Node.
 
 ---
 
