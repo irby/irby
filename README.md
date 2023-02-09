@@ -1,8 +1,8 @@
 ### Hey there! My name is Matt
 
-I am a full-stack software developer passionate about learning new tech stacks.
+I am a full-stack software developer passionate about learning new tech stacks. During the day, I develop cloud-facing web applications. By night, I do some work on open-source projects I find interesting.
 
-🌱 I'm currently doing security research on passwordless authentication, but also working towards my certifications in Azure and AWS. 
+🌱 I'm currently working on learning Golang, Azure, and Node.
 
 ---
 
